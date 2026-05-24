@@ -6,6 +6,7 @@ Requisitos
 Python 3.x
 
 Comandos:
+
 python main.py add "Tarefa" - Adiciona uma tarefa
 
 python main.py update <id> "Nova descrição" - Atualiza uma tarefa
