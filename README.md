@@ -34,4 +34,6 @@ python main.py list delete - Apaga todas as tarefas
 Status disponíveis:
 todo · progress · done
 
+## 🔗 Link do projeto
+
 https://github.com/cristhyan-n/to-do-list
